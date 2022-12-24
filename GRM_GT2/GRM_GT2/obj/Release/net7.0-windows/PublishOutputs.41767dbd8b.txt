@@ -1,0 +1,5 @@
+C:\Users\ivang\OneDrive\Рабочий стол\GRM GT2\GRM_GT2.exe
+C:\Users\ivang\OneDrive\Рабочий стол\GRM GT2\GRM_GT2.dll
+C:\Users\ivang\OneDrive\Рабочий стол\GRM GT2\GRM_GT2.deps.json
+C:\Users\ivang\OneDrive\Рабочий стол\GRM GT2\GRM_GT2.runtimeconfig.json
+C:\Users\ivang\OneDrive\Рабочий стол\GRM GT2\GRM_GT2.pdb
