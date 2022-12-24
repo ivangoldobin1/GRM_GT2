@@ -18,5 +18,4 @@ Run the file "GRM_GT2.exe"
 
 ## License / Лиценщия
 
-MIT
 **Free Software / Бесплатное программное обеспечение**
